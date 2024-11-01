@@ -1,4 +1,4 @@
-## Full Stack en proceso 👋
+## Full Stack Developer 👋
 
 ## Tecnologias que uso
 
