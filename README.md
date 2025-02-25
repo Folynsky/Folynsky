@@ -18,6 +18,8 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
    <img src="https://img.shields.io/badge/Thunder-3E3E3E?style=for-the-badge&logo=thunderclient&logoColor=white">
+   <img src="https://img.shields.io/badge/python-239120?style=for-the-badge&logo=html5&logoColor=white">
+  
 </div>
 <!--
 **Folynsky/Folynsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
